@@ -1,4 +1,4 @@
 alert('bem vindo pessoal');
 
-prompt("qual o seu nome?");
+let nome_usuario = prompt("qual o seu nome?");
 
