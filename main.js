@@ -8,12 +8,9 @@ let texto = document.querySelector('span')
         nome_usuario =  prompt("qual o seu nome?");
     }
 if (nome_usuario == null){
-    texto.textContent = "Usuário";
+    texto.textContent = "usuário";
 } else{
     texto.textContent = nome_usuario;
 }
 
-
 console.log("NOME DO USUÁRIO = " + nome_usuario);
-
-
