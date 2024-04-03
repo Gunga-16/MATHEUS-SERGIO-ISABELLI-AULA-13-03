@@ -40,3 +40,8 @@ button:hover{
     font-size: 20px;
 
 }
+.ativo{
+    background-color: green;
+    color:#fff;
+    border-bottom: 3px solid rgb(221, 255, 0);
+}
