@@ -1,7 +1,7 @@
 const botoes = document.querySelectorAll('.objetivos');
 // botoes.lenght
 
-let i = 0;
+
 
 
 
