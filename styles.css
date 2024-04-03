@@ -6,7 +6,9 @@ body{
 span{
     color: red;
 }
-
+a{
+    color:aqua;
+}
 .contagem{
     background-color:white;
     padding: 20px 0;
