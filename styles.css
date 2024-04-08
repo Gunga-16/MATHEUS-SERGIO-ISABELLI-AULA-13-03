@@ -62,3 +62,12 @@ button:hover{
     line-height: normal;
 }
 
+.aba-conteudo {
+    display: none;
+
+}
+
+.ativa{
+    display: block;
+    color: black;
+}
