@@ -45,3 +45,19 @@ button:hover{
     color:#fff;
     border-bottom: 3px solid rgb(221, 255, 0);
 }
+
+.container__campo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.texto__paragrafo {
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
