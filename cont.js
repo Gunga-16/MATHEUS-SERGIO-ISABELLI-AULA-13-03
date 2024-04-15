@@ -16,3 +16,10 @@ console.log(i);
 
 //botoes[i].classList.remove('ativo');
 }
+
+const contadores = document.querySelectorAll('.contador');
+
+
+
+
+
