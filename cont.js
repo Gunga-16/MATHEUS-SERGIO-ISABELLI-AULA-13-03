@@ -25,6 +25,6 @@ const tempoObjetivo2 = new Date ('2025-01-17T00:00:00');
 
 let tempoAtual = new Date ();
 
-contadores[0].textContent = tempoObjetivo1 - tempoAtual;
+contadores[0].textContent = new Date (tempoObjetivo1 - tempoAtual);
 
 
