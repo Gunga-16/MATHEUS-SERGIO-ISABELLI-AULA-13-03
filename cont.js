@@ -34,6 +34,6 @@ let dias = Math.floor(horas/24);
 
 
 
-contadores[0].textContent = dias + ":" + horas + ":"  + minutos + ":"  + segundos + ":";
+contadores[0].textContent = dias + "Dias" + horas + "Horas"  + minutos + "Minutos"  + segundos + "Segundos";
 
 
